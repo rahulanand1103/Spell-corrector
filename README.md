@@ -23,7 +23,7 @@ Start by downloading the project and run "<i>Spell_Checker.ipynb</i>" file in ip
 You need to have installed following softwares and libraries in your machine before running this project.
 
 ### Installing
-1.Python 3
+1.Python 3<br>
 2.Anaconda: It will install ipython notebook and most of the libraries which are needed like numpy, pandas,gensim.
 
 ### Author
